@@ -1,0 +1,43 @@
+body{
+    background: #24353f;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.group{
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+
+h1{
+    color: #17a2b8;
+}
+
+.mt-5, .my-5{
+    margin-top: 3rem!important;
+}
+
+
+input, textarea{
+    background-color: transparent !important;
+    color: #fff !important;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: rgba(255,255,255,.5);
+}
+
+.navbar-expand-lg .navbar-nav .nav-link{
+    padding-right: .5rem;
+    padding-left: .5rem;
+}
+
+.nav-link{
+    padding: .5rem 1rem;
+}
+
+.navbar-nav{
+    width: 20%;
+}
+.navbar-brand{
+    margin-left: 30px;
+
+}
